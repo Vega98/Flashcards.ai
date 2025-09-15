@@ -1,7 +1,7 @@
 # Flashcards.ai
 
-> Demo for **Google DSC AI Hack 2024** – *Flashcards.ai* is a lightweight RAG-based flashcard and Q&A system that quizzes you on content from an uploaded PDF or TXT file.  
-> Powered locally using **Ollama** with **Google’s Gemma 3** model and **GemmaEmbedding**.
+Demo for **Google DSC AI Hack 2024** – *Flashcards.ai* is a lightweight RAG-based flashcard and Q&A system that quizzes you on content from an uploaded PDF or TXT file.  
+Powered locally using **Ollama** with **Google’s Gemma 3** model and **GemmaEmbedding**.
 
 ---
 
