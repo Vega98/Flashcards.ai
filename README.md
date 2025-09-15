@@ -25,7 +25,7 @@ Powered locally using **Ollama** with **Google’s Gemma 3** model and **GemmaEm
 ```
 pip install -r requirements.txt
 ```
-### 3. (Install Ollama)[https://ollama.com/] & pull models
+### 3. [Install Ollama](https://ollama.com/) & pull models
 ```
 ollama pull gemma3
 ollama pull embeddinggemma
